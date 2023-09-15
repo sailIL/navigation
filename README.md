@@ -1,2 +1,4 @@
 # navigation
-high level navigation - decision making and low level navigation - Dijkstra's algorithm for example
+
+high level navigation - decision making
+low level navigation - Dijkstra's algorithm for example
